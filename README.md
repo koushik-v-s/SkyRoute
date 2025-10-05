@@ -1,7 +1,7 @@
 # SkyRoute
 Abstract :
 
-AeroRoute is a graph-based airline route optimization system that models airports as nodes and flight connections as weighted edges.
+SkyRoute is a graph-based airline route optimization system that models airports as nodes and flight connections as weighted edges.
 
 Each flight connection stores details such as airplane name, distance, ticket price, and number of halts.
 
